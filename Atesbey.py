@@ -1,3 +1,2 @@
-print("Atesbey")
-print("Atesbey")
-print("Atesbey")
+
+input("Press Enter to continue...")
